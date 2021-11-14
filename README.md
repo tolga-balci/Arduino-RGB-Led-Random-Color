@@ -68,7 +68,7 @@ If you receive the following error in your Arduino IDE:
 
 > Board at /dev/ttyACM0 is not available
 
-and if you are on Linux, open up a terminal and run the ```cat /dev/ttyACM0``` command. Below is a simple output from my terminal:
+and if you are on Linux, open up a terminal and run the ```cat /dev/ttyACM0``` command. Below is a simple output from my terminal, showing red, green and blue values on one line:
 
 ![Terminal Output of cat /dev/ttyACM0](Terminal.png)
 
