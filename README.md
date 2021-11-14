@@ -23,6 +23,10 @@ If you'd like to tinker, you can do so on my wiring on [TinkerCad](https://www.t
 
 Now that our wiring is complete, we will control the pins with analog inputs. As always, we will initialize our pins as OUTPUT in our setup function first. Then, in our loop function we will create random integers between 0 and 255 as values for red, green and blue pins. We will create a small function to send the random values to the pins and call the function with the red, green and blue values.
 
+
+> &#x1F92F; If you want to keep your sanity, be careful with what value brings your LED to ON and OFF. It might be that value 0 might be turning ON your LED and 255 might be turning it OFF.
+
+
 In the function, note that we will use byte variable type, which is a special variable that accepts integers in the 0-255 range.
 
 To make things further interesting, we are going to see what the random red, green and blue values are from the serial console.
