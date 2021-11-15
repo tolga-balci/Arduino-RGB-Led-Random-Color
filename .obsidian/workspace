@@ -7,9 +7,10 @@
         "id": "3fc7c410fedd8a90",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png"
+            "file": "Electronics/Arduino-RGB-Led-Random-Color/README.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png",
+                "file": "Electronics/Arduino-RGB-Led-Random-Color/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,9 +88,10 @@
   },
   "active": "3fc7c410fedd8a90",
   "lastOpenFiles": [
-    "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png",
-    "Electronics/Arduino-RGB-Led-Random-Color/Terminal.png",
+    "Electronics/Arduino-RGB-Led-Random-Color/README.md",
+    "Terminal.png",
     "Electronics/Arduino-Blink-LED-Seqential-and-Random/README.md",
-    "Electronics/Arduino-RGB-Led-Random-Color/README.md"
+    "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png",
+    "Electronics/Arduino-RGB-Led-Random-Color/Terminal.png"
   ]
 }
