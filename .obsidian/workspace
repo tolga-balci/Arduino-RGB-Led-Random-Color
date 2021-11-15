@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "5fa121594d495ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fc7c410fedd8a90",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f9e69b43178e019",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cdb8e5d73faa1d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6ed37c9ebdde97d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7715cbf340d470c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f35bb739cfb75f38",
+    "type": "split",
+    "children": [
+      {
+        "id": "8703df52bc643b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56d87bcd15270ba1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3fc7c410fedd8a90",
+  "lastOpenFiles": [
+    "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png",
+    "Electronics/Arduino-RGB-Led-Random-Color/Terminal.png",
+    "Electronics/Arduino-Blink-LED-Seqential-and-Random/README.md",
+    "Electronics/Arduino-RGB-Led-Random-Color/README.md"
+  ]
+}
