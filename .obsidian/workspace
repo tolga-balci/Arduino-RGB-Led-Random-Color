@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3fc7c410fedd8a90",
+        "id": "0feb72466b14ab08",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,11 +86,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fc7c410fedd8a90",
+  "active": "0feb72466b14ab08",
   "lastOpenFiles": [
     "Electronics/Arduino-RGB-Led-Random-Color/README.md",
-    "Terminal.png",
+    "Electronics/Arduino-RGB-Led-Random-Color/Arduino-RGB-LED-Random-Color.md.md",
+    "Electronics/Arduino-FloatingPin/Arduino-Floating-Pin.md.md",
     "Electronics/Arduino-Blink-LED-Seqential-and-Random/README.md",
+    "Electronics/Arduino-Blink-LED-Seqential-and-Random/Arduino-Blink-LED-Sequential-and-Random.md.md",
+    "Electronics/Arduino-FloatingPin/README.md.md",
+    "Electronics/Arduino-FloatingPin/Arduino-FloatingPin-setup.png",
+    "Terminal.png",
     "Electronics/Arduino-RGB-Led-Random-Color/Wiring.png",
     "Electronics/Arduino-RGB-Led-Random-Color/Terminal.png"
   ]
