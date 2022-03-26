@@ -16,7 +16,7 @@ As you see, the digital pin is connected to the + side of the toggle button and 
 
 After we build the circuit, our code is pretty much simple: we will activate the serial monitor to read the pin value and write it to the serial monitor:
 
-```
+``` C++
 const int read_pin = 2;
 
 void setup() {
